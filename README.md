@@ -1,7 +1,13 @@
 
+
 <a href="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true" />
 </a>
+
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=rogerrum)
 
 <!--
 ### Hi there 👋
