@@ -1,5 +1,5 @@
-
-
+### Hi there 👋
+<!--
 <a href="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrum&show_icons=true&theme=flag-india&count_private=true" />
 </a>
@@ -9,8 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=rogerrum)
 
-<!--
-### Hi there 👋
+
+
 **rogerrum/rogerrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](/github-metrics.svg)
